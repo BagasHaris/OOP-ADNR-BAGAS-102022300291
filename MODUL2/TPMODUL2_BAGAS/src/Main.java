@@ -5,7 +5,6 @@ public class Main {
 
         System.out.println("Detail Hewan\n");
 
-        // Kucing
         System.out.println("ini adalah " + kucing.nama + " !");
         kucing.suara();
         kucing.makan();
@@ -14,7 +13,6 @@ public class Main {
 
         System.out.println("\n");
 
-        // Burung
         System.out.println("ini adalah " + burung.nama + " !");
         burung.suara();
         burung.makan();
