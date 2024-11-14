@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "MODUL2/TPMODUL2_BAGAS/src",
         "MODUL1/MODUL1_BAGAS/src",
-        "MODUL2/TPMODUL2_BAGAS/src"
+        "MODUL2/MODUL2_BAGAS/src"
     ]
 }
